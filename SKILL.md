@@ -58,7 +58,7 @@ description: Use when converting a rough idea, new feature request, or improveme
 
 2. md 선택 시:
    - Write 도구로 직접 저장
-   - 저장 경로: `~/Desktop/` (기본값)
+   - 저장 경로: `~/Documents/idea2planning/outputs/` (기본값)
    - 파일명: `1pager_[제목요약]_[YYMMDD].md` 형식
 
 3. pdf 선택 시:
