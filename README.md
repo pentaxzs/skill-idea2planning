@@ -93,3 +93,10 @@ cp your-1pager.md ~/.claude/skills/idea2planning/references/1pager_example04.md
 
 좋은 예시 문서가 있다면 PR로 공유해주세요.
 `references/` 폴더에 파일을 추가하는 것만으로 기여할 수 있습니다.
+
+---
+
+## 제작기
+
+제작기는 아래 링크에서 확인할 수 있습니다.
+https://brunch.co.kr/@monglec/177 
